@@ -1,0 +1,4 @@
+INSERT INTO `emulator_settings`(`key`, `value`) VALUES ('jarvis.reportlog.discord.link', 'https://reportlogwebhookhere');
+INSERT INTO `emulator_settings`(`key`, `value`) VALUES ('jarvis.banlog.discord.link', 'https://banlogwebhookhere');
+INSERT INTO `emulator_settings`(`key`, `value`) VALUES ('jarvis.commandlog.discord.link', 'https://commandlogwebhookhere');
+INSERT INTO `emulator_settings`(`key`, `value`) VALUES ('jarvis.loginlog.discord.link', 'https://loginlogwebhookhere');
